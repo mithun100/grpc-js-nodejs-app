@@ -5,7 +5,7 @@ This is a simple Node.js application which is using GRPC.  We are using https://
 
 There are two main files to focus.
 
-1.client.js
+1. client.js
 2. server.js
 
 Both of them has the AppDynamics snippet pasted at the top. You need to modify the xxxx and key value to report it to the required Controller.
