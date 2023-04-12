@@ -13,7 +13,17 @@ Both of them has the AppDynamics snippet pasted at the top. You need to modify t
 To run the application
 
 Clone the project
-Run the node client.js
-node server.js
+Run the 
+
+```node client.js```
+
+```node server.js```
+
 Now access the http://localhost:3000
-Reference 
+
+or
+
+You can also run  ```./load.sh```
+
+
+Reference https://www.npmjs.com/package/@grpc/grpc-js 
