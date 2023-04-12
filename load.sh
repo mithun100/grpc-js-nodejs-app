@@ -2,7 +2,7 @@
 while :
 do
     echo "======================================================================================"
-    echo "Invoking auto-instrumented upstream-mithun application in K8s on port 80!!!"
+    echo "Invoking grpc-js-nodejs-app application!"
     STARTTIME=$(date +"%Y-%m-%d %H:%M:%S:%3N")
     echo "Sent request at: $STARTTIME"
     curl http://localhost:3000/
